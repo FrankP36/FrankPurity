@@ -5,6 +5,6 @@
 - 📫 How to reach me my email franklinemutai42@gamil.com...
 
 <!---
-FrankPurity/FrankPurity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FrankP/FrankP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
